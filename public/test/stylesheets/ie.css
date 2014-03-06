@@ -1,0 +1,8 @@
+/* Welcome to Compass. Use this file to write IE specific override styles. Import this file using the following HTML or equivalent: <!--[if IE]> <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" /> <![endif]--> */
+/* line 6, ../sass/ie.scss */
+body { background-color: red; }
+/* line 9, ../sass/ie.scss */
+body h1 { color: #7a7ae9; }
+
+/* line 15, ../sass/ie.scss */
+p { box-shadow: 5px grey; }
