@@ -1,1 +1,1 @@
-f2.txt added one line by Rafal
+content f2.txt changes for testing purposed
